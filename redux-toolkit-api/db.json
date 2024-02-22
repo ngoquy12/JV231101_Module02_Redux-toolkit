@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "50b3",
+      "userName": "Nguyễn Văn Nam",
+      "gender": 0,
+      "dateOfBirth": "20/11/2021",
+      "address": "Cầu Giấy, Hà Nội",
+      "email": "nam@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "cf26",
+      "userName": "Nguyễn Văn Sơn",
+      "gender": 1,
+      "dateOfBirth": "20/11/2021",
+      "address": "Cầu Giấy, Hà Nội",
+      "email": "son@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
